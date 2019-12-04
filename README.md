@@ -32,6 +32,12 @@ MODULES
 •	RESTURANT MODULE (RESTURANT ADMIN)
 •	SUPER ADMIN (ADD & DELETE RESTURANTS)
 
+SOURCE
+
+•	ANDROID JAVA
+•	PHP APIs
+•	FIREBBASE
+•	MYSQL
 
 FOR MORE, contact me at: 
 email: khanzadasaleemkhan@gmail.com
