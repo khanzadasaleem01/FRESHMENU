@@ -34,5 +34,6 @@ MODULES
 
 
 FOR MORE, contact me at: 
-email: khanzadasaleemkhan@gmail.com/dev.khanzada@gmail.com
+email: khanzadasaleemkhan@gmail.com
+       dev.khanzada@gmail.com
 LinkedIn: https://www.linkedin.com/in/khanzada-saleem-khan-2501b8123/
